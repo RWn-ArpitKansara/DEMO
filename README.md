@@ -1,1 +1,1 @@
-<h1> C language </h1>
+<h1 align="center"> C language </h1>
